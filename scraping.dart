@@ -16,6 +16,9 @@ void getTranslate(){
 }
 
 void getQiita()async{
+  //参考になるサイト
+  //https://zenn.dev/tris/articles/9705b93a02425f
+  //https://zenn.dev/7oh/articles/fe9fa855859011
   //外のサイトのスクレイピングをしたい場合
 
   //URLの指定
