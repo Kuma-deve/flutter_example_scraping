@@ -1,4 +1,5 @@
 # 使い方
+ターミナルで以下を一行ずつ実行
 ```
 mkdir kuma-project
 cd kuma-project
